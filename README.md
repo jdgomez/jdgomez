@@ -12,7 +12,11 @@ Lately I've been learning Go seriously, exploring LLMs, and using AI tools to fi
 
 **[civbot](https://github.com/jdgomez/civbot)** — A Go webhook receiver that bridges Civilization 6 save events to Discord notifications. Built to scratch an itch, works in production (with HTTPS).
 
+**[job-search-assistant](https://github.com/jdgomez/job-search-assistant)** — A Go CLI that scores a job posting against my own profile using the Anthropic API, returning a match score, strengths, gaps, and cover-letter focus points. Built to automate the "re-read every posting and judge fit" part of a job search.
+
 **[DSB — Dance Sequence Builder](https://github.com/jdgomez/DSB)** — A Go CLI for building dance sequences from known figures and song durations. Work in progress, built while practising vibe coding.
+
+**[ai-world](https://github.com/jdgomez/ai-world)** — Work in progress: a growing, tool-agnostic collection of skills for AI coding agents (Gang of Four design patterns, project-inception flows), portable between Claude Code and other agent frameworks.
 
 **[Katas](https://github.com/jdgomez/Katas)** — Where I practice. Currently using Go to sharpen fundamentals. Each kata has its own README.
 

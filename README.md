@@ -6,8 +6,6 @@ Senior Agent Engineer with 13+ years of backend experience. I build software the
 
 Always learning and trying new things to keep the pace with AI. I write about what I learn at [jdgomez.dev](https://jdgomez.dev).
 
----
-
 ## Featured
 
 **[custom-notifier](https://github.com/jdgomez/custom-notifier)** - A native Android app (Kotlin, Jetpack Compose) that warns you before a household consumable runs out. Built entirely with agent engineering: agents wrote the code, issues, pull requests, ADRs, specs and roadmap; I approved proposals, reviewed UX and merged every PR. The process is documented in the open: session zero, way of working, 18 ADRs, OpenSpec specs, retrospectives, CI and automated releases. Currently in Play Console internal testing.

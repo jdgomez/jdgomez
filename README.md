@@ -2,7 +2,7 @@
 
 I've been writing code since before I knew it had a name. Back then it was a private server for an online MMORPG running on whatever hardware I could get my hands on. Now it's microservices, cloud infrastructure, and CI/CD pipelines — but the feeling is the same: build something, break it, understand why, make it better.
 
-Senior Agent Engineer with 13+ years of backend experience. I build software the way I now believe it should be built: I own the problem, the decisions and the quality bar, and a team of AI agents plans, implements and reviews the changes under my supervision. That background is what lets me judge what the agents produce. I work fully remote with distributed teams, and I care about the craft: clean code, good processes, reducing friction.
+Senior Software Engineer with 13+ years of backend experience. I build software the way I now believe it should be built: I own the problem, the decisions and the quality bar, and a team of AI agents plans, implements and reviews the changes under my supervision. That background is what lets me judge what the agents produce. I work fully remote with distributed teams, and I care about the craft: clean code, good processes, reducing friction.
 
 Always learning and trying new things to keep the pace with AI. I write about what I learn at [jdgomez.dev](https://jdgomez.dev).
 
